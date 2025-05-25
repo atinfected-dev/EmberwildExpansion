@@ -16,7 +16,8 @@ Fully implemented quest chain connecting all dungeons
 Future-ready support for raid unlocks + cinematics
 
 📖 Lore Summary
-Zandor’al was once a Titan crucible — the Emberwild Forge — designed to temper elemental fire and life. Now, with elemental balance broken, the ancient Titan-forged entity Ignaroth awakens beneath its molten heart.
+Zandor’al was once a Titan crucible — the Emberwild Forge — designed to temper elemental fire and life. 
+Now, with elemental balance broken, the ancient Titan-forged entity Ignaroth awakens beneath its molten heart.
 Trolls, flame-beasts, and corrupted constructs form the Emberwild Covenant to prepare the world for purification by fire.
 The Flamewardens, Titan loyalists, seek champions to stop them.
 
@@ -33,36 +34,54 @@ Players accept a quest chain from Lorekeeper Alithar that spans all four dungeon
 A corrupted jungle temple overcome by fire and vines.
 
 Boss	Mechanics
+
 Scorchroot the Entwined	Flame Vines, Molten Thorns, Add Spawning
+
 Pyrelash Priestess Azura	Fire Nova, Flame Lash, Shield Aura
+
 Mol’tah the Devourer	Flame Bite, AoE Slam, Berserk Rage
+
 Khar’zul	Flame Shield, Ignite Ground, Flame Stomp
+
+
 
 2. Molten Chasm
 Lava tunnels beneath the Emberwild, infested by molten creatures.
 
 Boss	Mechanics
 Lavafang	Burrow ambush, Fire Bite, Add spawning
+
 Emberflame Hydra	Head-swapping phases, Lava Splash
+
 Smolderscale the Ancient	Stacking fire aura, Flame Swipe
+
 Volgrak, Core Watcher	Rune shield, Fire pulses, Overheat channel
+
+
 
 3. Thornfire Hold
 Fortress of fire-touched jungle trolls.
 
 Boss	Mechanics
-Zul’ra	AoE Firestorm, Totem spawning, Hex debuff
-Thornspike Beastmaster	Fire beast summoning, Whip attacks
-Emberblood Twins	Alternating empowered/immune states
-Vakar	Fire-root combo, Wild magic fusion
+- Zul’ra	AoE Firestorm, Totem spawning, Hex debuff
+
+- Thornspike Beastmaster	Fire beast summoning, Whip attacks
+
+- Emberblood Twins	Alternating empowered/immune states
+
+- Vakar	Fire-root combo, Wild magic fusion
+
 
 4. Ruins of Ard’alor
 Titan ruins overtaken by corrupted constructs and wild growth.
 
 Boss	Mechanics
 Ignis Warden Protocol	Laser barrage, Defensive shields
+
 Jungleheart Construct	Rooting vines, Ignite-overgrowth combo
+
 Solarflare Sentinel	Solar fire + blind, Light-beam attacks
+
 Zhar’thul	Fire barrier aura, Fire archives, Mind burn
 
 📜 Questline: Wrath of the Emberwild
