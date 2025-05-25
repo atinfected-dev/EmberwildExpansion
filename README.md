@@ -40,13 +40,13 @@ A corrupted jungle temple overcome by fire and vines.
 
 Boss	Mechanics
 
-Scorchroot the Entwined	Flame Vines, Molten Thorns, Add Spawning
+- Scorchroot the Entwined	Flame Vines, Molten Thorns, Add Spawning
 
-Pyrelash Priestess Azura	Fire Nova, Flame Lash, Shield Aura
+- Pyrelash Priestess Azura	Fire Nova, Flame Lash, Shield Aura
 
-Mol’tah the Devourer	Flame Bite, AoE Slam, Berserk Rage
+- Mol’tah the Devourer	Flame Bite, AoE Slam, Berserk Rage
 
-Khar’zul	Flame Shield, Ignite Ground, Flame Stomp
+- Khar’zul	Flame Shield, Ignite Ground, Flame Stomp
 
 
 
@@ -54,13 +54,13 @@ Khar’zul	Flame Shield, Ignite Ground, Flame Stomp
 Lava tunnels beneath the Emberwild, infested by molten creatures.
 
 Boss	Mechanics
-Lavafang	Burrow ambush, Fire Bite, Add spawning
+- Lavafang	Burrow ambush, Fire Bite, Add spawning
 
-Emberflame Hydra	Head-swapping phases, Lava Splash
+- Emberflame Hydra	Head-swapping phases, Lava Splash
 
-Smolderscale the Ancient	Stacking fire aura, Flame Swipe
+- Smolderscale the Ancient	Stacking fire aura, Flame Swipe
 
-Volgrak, Core Watcher	Rune shield, Fire pulses, Overheat channel
+- Volgrak, Core Watcher	Rune shield, Fire pulses, Overheat channel
 
 
 
@@ -81,13 +81,13 @@ Boss	Mechanics
 Titan ruins overtaken by corrupted constructs and wild growth.
 
 Boss	Mechanics
-Ignis Warden Protocol	Laser barrage, Defensive shields
+- Ignis Warden Protocol	Laser barrage, Defensive shields
 
-Jungleheart Construct	Rooting vines, Ignite-overgrowth combo
+- Jungleheart Construct	Rooting vines, Ignite-overgrowth combo
 
-Solarflare Sentinel	Solar fire + blind, Light-beam attacks
+- Solarflare Sentinel	Solar fire + blind, Light-beam attacks
 
-Zhar’thul	Fire barrier aura, Fire archives, Mind burn
+- Zhar’thul	Fire barrier aura, Fire archives, Mind burn
 
 📜 Questline: Wrath of the Emberwild
 Given by: Flamewarden Lorekeeper Alithar (Stormwind/Orgrimmar)
@@ -117,9 +117,6 @@ Each dungeon boss drops 2–3 pieces of gear appropriate to level 85–90.
 You can modify creature_loot_template to adjust drop rates.
 
 📂 Developer Installation
-bash
-Kopieren
-Bearbeiten
 # Step 1: Import SQL
 Run all SQL files inside /sql/ against your AzerothCore world DB
 
@@ -130,25 +127,33 @@ Copy contents of /lua_scripts/ into your Eluna Lua scripts folder
 Edit boss scripts if you want to award rep per kill (+10 per boss)
 
 # Step 4: Test using teleport NPC (optional, can be provided)
+
+
+
 🔧 Tech Requirements
-✅ AzerothCore 3.3.5
 
-✅ Eluna enabled
+- ✅ AzerothCore 3.3.5
 
-✅ Custom map entries for new zones (Zandor’al dungeons use dummy map IDs)
+- ✅ Eluna enabled
 
-✅ Optional: SmartAI/SD2 for trash mobs
+- ✅ Custom map entries for new zones (Zandor’al dungeons use dummy map IDs)
+
+- ✅ Optional: SmartAI/SD2 for trash mobs
+
+  
 
 🚧 In Progress
-🏰 Raid: Heart of Ignaroth
 
-🧱 World building for Zandor’al zones
 
-📜 Daily rep quests
+- 🏰 Raid: Heart of Ignaroth
 
-🎞️ Cinematics + phasing options
+- 🧱 World building for Zandor’al zones
 
-🧪 GM tools / debug portal
+- 📜 Daily rep quests
+
+- 🎞️ Cinematics + phasing options
+
+- 🧪 GM tools / debug portal
 
 🙌 Credits
 Designed and implemented by atinfected
