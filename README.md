@@ -1,8 +1,10 @@
 🌋 Wrath of the Emberwild (AzerothCore 3.3.5)
-Custom Expansion Module – Eluna + SQL
+
+- Custom Expansion Module – Eluna + SQL
 
 🔥 Expansion Overview
-"When the Lich King fell, the balance of Azeroth cracked. In the mists of the southern seas lies Zandor’al, a jungle-shrouded, volcanic continent — home to Titan experiments, elemental corruption, and the awakening of Ignaroth, the Heart of Flame."
+
+- "When the Lich King fell, the balance of Azeroth cracked. In the mists of the southern seas lies Zandor’al, a jungle-shrouded, volcanic continent — home to Titan experiments, elemental corruption, and the awakening of Ignaroth, the Heart of Flame."
 
 Features:
 New continent: Zandor’al
@@ -16,18 +18,21 @@ Fully implemented quest chain connecting all dungeons
 Future-ready support for raid unlocks + cinematics
 
 📖 Lore Summary
-Zandor’al was once a Titan crucible — the Emberwild Forge — designed to temper elemental fire and life. 
-Now, with elemental balance broken, the ancient Titan-forged entity Ignaroth awakens beneath its molten heart.
-Trolls, flame-beasts, and corrupted constructs form the Emberwild Covenant to prepare the world for purification by fire.
-The Flamewardens, Titan loyalists, seek champions to stop them.
+
+
+- Zandor’al was once a Titan crucible — the Emberwild Forge — designed to temper elemental fire and life. 
+- Now, with elemental balance broken, the ancient Titan-forged entity Ignaroth awakens beneath its molten heart.
+- Trolls, flame-beasts, and corrupted constructs form the Emberwild Covenant to prepare the world for purification by fire.
+- The Flamewardens, Titan loyalists, seek champions to stop them.
 
 🏅 Factions
+
 Faction Name	ID	Type	Description
 Flamewardens	2201	Friendly	Guardians of elemental order (Reputation + Vendor)
 Emberwild Covenant	2202	Hostile	Fire-twisted trolls and elementals
 
-🕹️ Progression Path
-Players accept a quest chain from Lorekeeper Alithar that spans all four dungeons. Completion rewards rep, gear, and unlocks the raid (Heart of Ignaroth – in development).
+🕹️ "Progression Path"
+- Players accept a quest chain from Lorekeeper Alithar that spans all four dungeons. Completion rewards rep, gear, and unlocks the raid (Heart of Ignaroth – in development).
 
 🏰 Dungeons (Fully Scripted)
 1. Temple of Ember Bloom
