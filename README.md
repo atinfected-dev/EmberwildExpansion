@@ -145,7 +145,111 @@ Edit boss scripts if you want to award rep per kill (+10 per boss)
 🚧 In Progress
 
 
-- 🏰 Raid: Heart of Ignaroth
+# 🏰 Heart of Ignaroth (Raid)  
+**Custom Level 90 10/25-Player Raid**  
+*For AzerothCore 3.3.5 | Eluna Scripted | Fully Modular*
+
+---
+
+## 🔥 LORE
+
+> *“Deep in the Emberwild continent of Zandor’al, a forgotten Titan forge stirs once more. At its heart lies Ignaroth — a half-Titan, half-elemental entity, once created to balance fire and life. But the balance is broken. Ignaroth now burns with rage, threatening to consume the world in purifying flame.”*
+
+---
+
+## 🌋 RAID OVERVIEW
+
+| Feature              | Detail                            |
+|----------------------|-----------------------------------|
+| **Name**             | Heart of Ignaroth                |
+| **Map ID**           | 9930                              |
+| **Max Players**      | 10/25                             |
+| **Reset Time**       | 7 Days                            |
+| **Wings**            | 3 (Emberforge Core, Magma Sanctum, Throne of Flame)  
+| **Boss Count**       | 8 (Fully Scripted)                |
+| **Entry Quest**      | `90404 - The Burning Archive` (optional)  
+| **Recommended Level**| 90                                |
+
+---
+
+## 🧭 RAID STRUCTURE & BOSSES
+
+---
+
+### 🔻 Wing 1: **Emberforge Core**
+
+1. **Coreforged Colossus**  
+   - 🔸 Cone cleave  
+   - 🔸 Flame pulses  
+   - 🔸 Magma jet phase (positioning check)
+
+2. **Ember Wyrm Vael’karos** *(Advanced)*  
+   - 🔸 Alternates between **ground and air phase**  
+   - 🔸 Meteor impacts on players  
+   - 🔸 Add management: molten whelps must die or AoE wipes group
+
+3. **Moltaria, Mother of Magma** *(Challenging)*  
+   - 🔸 Spawns lava adds that feed boss if they reach her  
+   - 🔸 Kill adds = explosions  
+   - 🔸 Lava Fissures restrict LOS  
+   - 🔸 Phase 2: boss becomes mobile, trail hazards, AoE stomp  
+   - 🔸 Death: wipes if 4+ adds fed to her
+
+4. **Forgehound Thraxx** *(Mobile Fight)*  
+   - 🔸 Fixate mechanic: chases random non-tank  
+   - 🔸 Interruptable flame howl (raid-wide silence)  
+   - 🔸 Chain mechanic between players (fire beam link)  
+   - 🔸 25% enrage: faster movement, high tank pressure
+
+---
+
+### 🔻 Wing 2: **Magma Council & Flame Cult**
+
+5. **Magmus, the Flamebreaker** *(Multi-phase)*  
+   - 🔸 Rotating hammer stances:  
+     - Pulverize → tank cleave  
+     - Searing Slam → AoE burst  
+     - Flamebrand → attacker debuff  
+   - 🔸 Titan rune chains: magic debuff must be dispelled  
+   - 🔸 Phase 2: Molten Seal → flame waves + add kill to escape
+
+6. **Lava Revenant Council** *(Trio Encounter)*  
+   - 🔸 3 elemental revenants: Fire, Earth, Wind  
+   - 🔸 Each buffs nearby councilors  
+   - 🔸 Must die within 15 seconds of each other  
+   - 🔸 Solo boss alive = ENRAGE and wipe mechanic
+
+7. **High Inquisitor Pyroxis** *(Mechanically Heavy)*  
+   - 🔸 Burning Soul debuff spreads unless dispelled  
+   - 🔸 Temporal Singularity: freezes raid unless protected  
+   - 🔸 Mind control 1–2 players — they gain offensive buffs  
+   - 🔸 Corrupted Timeline aura: reduces cooldowns + increases DoT durations
+
+---
+
+### 🔻 Final Wing: **Throne of Flame**
+
+8. **Ignaroth, Heart of Flame** *(Final Boss – Very Hard)*  
+   - 🔥 **Phase 1:**  
+     - Cone cleaves  
+     - Fire jets across platform  
+     - Magmatic brands (spread mechanic)
+
+   - 🌿 **Phase 2:**  
+     - Raid split into **Fire Realm** and **Nature Realm**  
+     - Each must kill an Elemental Heart add  
+     - Failure = group-wide DoT for rest of fight
+
+   - 🧨 **Phase 3:**  
+     - Heart exposed, raid-wide flame pulse  
+     - Meteor spawns, safe zone mechanics  
+     - **Final Judgment**: wipes raid unless players interrupt by using cores from Phase 2
+
+---
+
+
+
+
 
 - 🧱 World building for Zandor’al zones
 
